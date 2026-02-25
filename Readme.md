@@ -56,7 +56,7 @@ Simply enter any topic and watch as the AI creates a comprehensive blog post wit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Salman313ali/AI-Blog-Writer.git
+   git clone https://github.com/timjohnson0099/AI-Blog-Writer.git
    cd ai-blog-writer
    ```
 
@@ -207,10 +207,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Groq](https://groq.com/) - LLM provider
 - [React](https://reactjs.org/) - Frontend framework
 - [FastAPI](https://fastapi.tiangolo.com/) - Backend framework
-
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub or contact me at [salman313ali@gmail.com].
 
 ---
 
